@@ -1,6 +1,6 @@
 # Computational-Mathematics
 
-This is an individual assesment of Computational Mathematics module. 
+This is an individual assesment in Computational Mathematics module. 
 
 The answers and detailed descriptions of the teasks can be found in notebook CM-Nov2010-assessment.ipynb
 
